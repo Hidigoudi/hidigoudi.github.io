@@ -66,6 +66,16 @@ ul {
     font-weight: bold;
 }
 
+/* Logo Debian */
+.debian {
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.debian-red {
+    color: #D70A53;
+}
 
 /* Footer */
 .footer {
